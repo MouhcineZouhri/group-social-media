@@ -8,6 +8,10 @@
  
 - there is global role such MEMBER AND ADMIN for all group  , and custom role specific for a group .
 
+- ADMIN has all authorities .
+
+- MEMBER has only MEMBER authority .
+
 - authorities : 
 
      MEMBER  : CREATE NON APPROVE POST AND GET POSTS . 
