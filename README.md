@@ -2,7 +2,7 @@
 
 - users can create multiple group .
  
-- user only have one role in a group .
+- user has one role in a group .
 
 - role can contains authorities .
  
